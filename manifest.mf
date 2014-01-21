@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: interstellar/Main
+SplashScreen-Image: interstellar/ui/content/splash.png
+X-COMMENT: Main-Class will be added automatically by build
